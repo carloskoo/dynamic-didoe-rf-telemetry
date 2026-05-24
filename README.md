@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Research-orange)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey)
+![Telemetry](https://img.shields.io/badge/RF-Telemetry-red)
+
 \# Dynamic D-IDOE Framework for Rural Wireless Radio Links
 
 
