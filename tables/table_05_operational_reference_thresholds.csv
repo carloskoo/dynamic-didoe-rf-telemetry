@@ -1,0 +1,4 @@
+Boundary,Threshold
+Critical / Degraded,0.4264
+Degraded / Stable,0.4526
+Stable / Optimal,0.4761

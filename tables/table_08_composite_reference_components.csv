@@ -1,0 +1,8 @@
+Component,Weight,Purpose
+15-minute mean throughput,0.3,Sustained performance
+MCS,0.3,Spectral efficiency and adaptive modulation state
+SNR,0.15,RF channel quality
+MCS stability,0.1,Operational modulation stability
+SNR stability,0.1,Temporal channel stability
+Inverse MCS volatility,0.03,Penalty for modulation instability
+Inverse SNR volatility,0.02,Penalty for RF channel variability

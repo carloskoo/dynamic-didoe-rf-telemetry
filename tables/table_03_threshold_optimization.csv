@@ -1,0 +1,3 @@
+Threshold Strategy,t1 Critical/Degraded,t2 Degraded/Stable,t3 Stable/Optimal,F1-score
+Percentile Base,0.4607,0.4772,0.4932,0.36258595131440907
+Optimized,0.4677,0.4859,0.5069,0.45270680810836034

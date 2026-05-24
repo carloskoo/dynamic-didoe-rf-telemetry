@@ -1,0 +1,4 @@
+Model,Description,Uses Temporal Features,Uses Throughput in Index,Correlation with Throughput
+IDOE Base,"Instantaneous RF score based on SNR, MCS, and RSSI",No,No,0.1013
+D-IDOE V1,Dynamic operational index using RF quality and temporal stability,Yes,No,0.202
+D-IDOE V2,ML-informed dynamic index emphasizing MCS and temporal stability,Yes,No,0.2322

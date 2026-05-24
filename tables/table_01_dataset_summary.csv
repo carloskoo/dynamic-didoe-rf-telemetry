@@ -1,0 +1,8 @@
+Metric,Value
+Processed CSV files,87.0
+Rows before consolidation,150583.0
+Final rows,128058.0
+Valid records,125999.0
+Invalid records,2059.0
+Temporal gaps > 180 s,15.0
+Maximum gap (s),1725166.0
